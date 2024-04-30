@@ -1,7 +1,7 @@
 {
 	"name": "astro-lucide",
 	"description": " Astro component to use Lucide icons ",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"type": "module",
 	"homepage": "https://github.com/michelangelo-valderrama/astro-lucide#readme",
 	"repository": {

@@ -16,7 +16,7 @@ yarn add astro-lucide
 
 ```astro
 import { ChevronLeft } from "lucide";
-import { Lucide } from "astro-lucide"
+import Lucide from "astro-lucide"
 
 <Lucide
   icon={ChevronLeft}
