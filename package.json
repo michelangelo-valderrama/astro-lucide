@@ -1,26 +1,37 @@
 {
-  "name": "astro-lucide",
-  "version": "0.0.1",
-  "type": "module",
-  "exports": {
-    ".": "./index.ts"
-  },
-  "files": [
-    "src",
-    "index.ts"
-  ],
-  "keywords": [
-    "astro-component"
-  ],
-  "scripts": {},
-  "devDependencies": {
-    "astro": "^4.7.0"
-  },
-  "peerDependencies": {
-    "astro": "^4.0.0"
-  },
-  "dependencies": {
-    "@astrojs/check": "^0.5.10",
-    "typescript": "^5.4.5"
-  }
+	"name": "astro-lucide",
+	"description": " Astro component to use Lucide icons ",
+	"version": "0.0.1",
+	"type": "module",
+	"homepage": "https://github.com/michelangelo-valderrama/astro-lucide#readme",
+	"repository": {
+		"url": "https://github.com/michelangelo-valderrama/astro-lucide"
+	},
+	"author": {
+		"name": "Michelangelo Valderrama",
+		"url": "https://imangelo.dev"
+	},
+	"exports": {
+		".": "./index.ts"
+	},
+	"files": [
+		"src",
+		"index.ts"
+	],
+	"keywords": [
+		"astro-component",
+		"lucide"
+	],
+	"scripts": {},
+	"devDependencies": {
+		"astro": "^4.7.0"
+	},
+	"peerDependencies": {
+		"astro": "^4.0.0"
+	},
+	"dependencies": {
+		"@astrojs/check": "^0.5.10",
+		"lucide": "^0.376.1",
+		"typescript": "^5.4.5"
+	}
 }
